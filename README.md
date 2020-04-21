@@ -12,6 +12,7 @@ Dependencies to run the Project:
 5. Selenium Jars
 6. TestNG Library1
 
+Detailed Steps for dependencies and setup:
 1. Java 8+
 This project will run on Java8+ version as the library that has been added for Java in the project is JRE1.8
 
